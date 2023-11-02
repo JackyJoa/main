@@ -1,12 +1,17 @@
 # Large Movie Review Sentiment Analysis
 
 > This repository contains materials related to Sentiment Analysis of Large Movie Review.
+>
+> The link for the datatset used are as follows:
+    - https://ai.stanford.edu/~amaas/data/sentiment/
 
 ## Project Objectives
 
-  a) utilize both statistical and semantic approaches for sentiment analysis and     compare their performance in models; 
+  a) utilize both statistical and semantic approaches for sentiment analysis and compare their performance in models; 
+  
   b) identify the feature representations that work best on the Large Movie Review dataset; and 
-  c) determine the machine learning model that performs best for Sentiment Analysis and explore the impact of optimizing hyperparameters on accuracy and computational efficiency.
+  
+  c) determine the machine learning model that performs best for Sentiment Analysis and explore the impact of optimizing        hyperparameters on accuracy and computational efficiency.
 
 ## Processes
 
